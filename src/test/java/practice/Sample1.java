@@ -6,6 +6,8 @@ public class Sample1 {
 	{
 		System.out.println("hi tej");
 		System.out.println("hellooooo ");
+		System.out.println("s/w job kotte");
+		
 
 	}
 
